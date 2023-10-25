@@ -1,6 +1,6 @@
 # Gradient_Descent
 Using gradient descent, we try to predict mpg based on a series of predictor attributes.
-Running The Code-----------------------------------------------------------------------
+Running The Code--------------------------------------------------------------
 
 Run the code on google colab assignment1part1.py as well as assignment1part2.py
 The dataset is available on my github, which is being accessed in the code.
@@ -13,7 +13,7 @@ Same thing follows for assignment1part2.py, except the file name will be called
 linear_regression_data.txt, and the data stored will be weights, bias, MSE,
 and R2 value.
 
-IMPORTS---------------------------------------------------------------------------------
+IMPORTS------------------------------------------------------------------------
 Imports should already be in the code that I submitted, but just in case you want
 reference for the imports used, they will be listed below for each part.
 
